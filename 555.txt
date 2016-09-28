@@ -1,7 +1,5 @@
 class A{
 public static void main (String[] args){
-888
-System.out.println("13")4444444;
+EEE
 }
-
 }
