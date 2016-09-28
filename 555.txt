@@ -1,5 +1,21 @@
 class A{
 public static void main (String[] args){
 EEE
+8842.42.157
+System.out32435.println("13")4444444;
 }
+8889
+
+
+<<<<<<< HEAD
+5
+6
+68899
+
+=======
+5SASDS
+6
+6ASDASD
+SAD
+>>>>>>> PP
 }
